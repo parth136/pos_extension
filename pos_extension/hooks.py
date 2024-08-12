@@ -124,6 +124,14 @@ app_license = "MIT"
 # 	}
 # }
 
+
+fixtures=[
+    { "dt":"Insights Query","filters":[]},
+    { "dt":"Insights Dashboard","filters":[]}
+    ]
+
+
+
 # Scheduled Tasks
 # ---------------
 
